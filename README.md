@@ -1,73 +1,31 @@
-# FoodCraft-
-=======
-# Getting Started with Create React App
+# FoodCraft 🍔🌯
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+FoodCraft est une application de magasin de nourriture type restaurant développée avec **React**. L'application permet de consulter, ajouter et gérer des produits alimentaires tels que des **shawarmas**, **hamburgers** et bien plus encore.
 
-## Available Scripts
+## Fonctionnalités 🔥
+- Affichage des produits alimentaires
+- Ajout de nouveaux produits
+- Gestion du panier (ajouter, supprimer des produits)
+- Barre de navigation pour la recherche par **nom** ou **catégorie**
 
-In the project directory, you can run:
+## Installation 🚀
+1. Clonez le dépôt :
+```bash
+git clone https://github.com/Taki-eddine-El-Attari/FoodCraft.git
+```
+2. Accédez au dossier du projet :
+```bash
+cd FoodCraft
+```
+3. Installez les dépendances :
+```bash
+npm install
+```
+4. Lancez le serveur de développement :
+```bash
+npm start
+```
+L'application sera disponible sur **http://localhost:3000**.
 
-### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
->>>>>>> 650f672 (Ajouter FoodCraft)
+## Contribuer 🤝
+Les contributions sont les bienvenues ! Créez une pull request pour proposer des améliorations ou corriger des bugs.
