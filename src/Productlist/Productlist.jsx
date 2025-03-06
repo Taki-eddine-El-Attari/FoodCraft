@@ -91,7 +91,7 @@ export default function Productlist() {
       prix: "5",
       description: "Eau minérale naturelle, 50cl",
       categorie: "Boisson",
-      image: "boisson3.jpg",
+      image: "boisson3.png",
     },
   ]);
   const [showAddForm, setShowAddForm] = useState(false);
